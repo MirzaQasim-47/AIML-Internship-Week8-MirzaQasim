@@ -206,7 +206,7 @@ Serialized model file for future use and deployment.
 
 ### Dashboard
 
-week8_dashboard.png
+![Dashboard](week8_dashboard.png)
 
 Visual summary of model performance and dataset insights.
 
